@@ -10,18 +10,36 @@
   <rights>All rights reserved 2026, liwhcobra-lab</rights>
   <subtitle>技术分享与个人思考</subtitle>
   <title>Liwhcobra Blog</title>
-  <updated>2026-06-21T16:11:27.478Z</updated>
+  <updated>2026-06-22T04:50:08.016Z</updated>
   <entry>
     <author>
       <name>liwhcobra-lab</name>
     </author>
     <id>http://liwhcobra-lab.github.io/2026/06/22/hello-world/</id>
     <link href="http://liwhcobra-lab.github.io/2026/06/22/hello-world/"/>
-    <published>2026-06-21T16:11:27.478Z</published>
+    <published>2026-06-22T04:50:08.016Z</published>
     <summary>
       <![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a>]]>
     </summary>
     <title>Hello World</title>
-    <updated>2026-06-21T16:11:27.478Z</updated>
+    <updated>2026-06-22T04:50:08.016Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>liwhcobra-lab</name>
+    </author>
+    <category term="生活" scheme="http://liwhcobra-lab.github.io/categories/%E7%94%9F%E6%B4%BB/"/>
+    <category term="博客" scheme="http://liwhcobra-lab.github.io/tags/%E5%8D%9A%E5%AE%A2/"/>
+    <category term="欢迎" scheme="http://liwhcobra-lab.github.io/tags/%E6%AC%A2%E8%BF%8E/"/>
+    <id>http://liwhcobra-lab.github.io/2026/06/22/welcome/</id>
+    <link href="http://liwhcobra-lab.github.io/2026/06/22/welcome/"/>
+    <published>2026-06-22T04:50:00.000Z</published>
+    <summary>
+      <![CDATA[<p>这是博客的第一篇文章！</p>
+<h2 id="关于这个博客"><a href="#关于这个博客" class="headerlink" title="关于这个博客"></a>关于这个博客</h2><p>这里将分享一些技术文章和思考。</p>
+<h3]]>
+    </summary>
+    <title>欢迎来到我的博客</title>
+    <updated>2026-06-22T04:50:23.024Z</updated>
   </entry>
 </feed>
